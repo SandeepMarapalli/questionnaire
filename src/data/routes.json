@@ -1,0 +1,4 @@
+{
+  "/questionnair/list": "/questionnair",
+  "/questionnair/get/:id": "/questionnair/:id"
+}

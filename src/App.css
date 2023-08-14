@@ -1,0 +1,35 @@
+body {
+  background-color: #eee;
+}
+/* Header CSS */
+.header-section {
+  background-image: url("../public/images/header.png");
+  min-height: 100px;
+  background-size: 100%;
+  background-repeat: no-repeat;
+}
+
+/* Questionnaire Section CSS */
+.questionnaire-section {
+  width: 60%;
+  margin: 0 auto;
+  text-align: center;
+  max-width: 600px;
+}
+
+.button {
+  display: inline-block;
+  padding: 10px 20px;
+  font-size: 16px;
+  border: none;
+  background-color: #007bff;
+  color: white;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease-in-out;
+  text-decoration: none;
+}
+
+.button:hover {
+  background-color: #0056b3;
+}
